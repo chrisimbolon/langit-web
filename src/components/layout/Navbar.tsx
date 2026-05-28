@@ -31,7 +31,7 @@ export default function Navbar() {
         <Link to="/" className="flex items-center">
           <img
             src={logo}
-            alt="PT. Jasa Pro Indonesia"
+            alt="PT. Langit Strategi Indonesia"
             className="h-10 w-auto object-contain"
           />
         </Link>
