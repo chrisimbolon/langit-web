@@ -80,7 +80,7 @@ company: {
   titleLine2: "with clarity and discipline.",
 
   description:
-    "Jasapro is an independent digital engineering studio focused on building structured, scalable, and long-term software systems. We believe technology should be intentional — not improvised.",
+    "Langit Strategi Indonesia is an independent digital engineering studio focused on building structured, scalable, and long-term software systems. We believe technology should be intentional — not improvised.",
 
   profile: {
     title: "Company Profile",
