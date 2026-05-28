@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="container text-sm text-stone flex flex-col md:flex-row justify-between gap-6">
         <div>
           <p className="font-medium text-navy mb-2">
-            PT. JASA PRO INDONESIA
+            PT. LANGIT STRATEGI INDONESIA
           </p>
           <p>
             Engineering digital products with structure and precision.
@@ -12,7 +12,7 @@ export default function Footer() {
         </div>
 
         <div>
-          <p>© {new Date().getFullYear()} Jasapro </p>
+          <p>© {new Date().getFullYear()} Langit </p>
         </div>
       </div>
     </footer>
