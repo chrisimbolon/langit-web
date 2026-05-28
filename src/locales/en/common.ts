@@ -8,7 +8,7 @@ export default {
   },
 
   home: {
-    eyebrow: "PT. JASA PRO INDONESIA",
+    eyebrow: "PT. LANGIT STRATEGI INDONESIA",
 
     titleLine1: "Engineering clarity",
     titleLine2: "into digital systems.",
@@ -137,7 +137,7 @@ company: {
   title: "Founders",
 
   description:
-    "Jasapro was founded by practitioners across product, technology, and digital growth disciplines, combining engineering rigor with strategic thinking to build sustainable digital systems.",
+    "Langit Strategi Indonesia was founded by practitioners across product, technology, and digital growth disciplines, combining engineering rigor with strategic thinking to build sustainable digital systems.",
 
   members: [
     {
