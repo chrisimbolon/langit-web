@@ -80,7 +80,7 @@ company: {
   titleLine2: "dengan kejernihan dan disiplin.",
 
   description:
-    "Jasapro adalah studio rekayasa digital independen yang berfokus pada pembangunan sistem perangkat lunak yang terstruktur, skalabel, dan berorientasi jangka panjang. Kami meyakini bahwa teknologi harus dirancang secara sadar — bukan sekadar diimprovisasi.",
+    "Langit Strategi Indonesia adalah studio rekayasa digital independen yang berfokus pada pembangunan sistem perangkat lunak yang terstruktur, skalabel, dan berorientasi jangka panjang. Kami meyakini bahwa teknologi harus dirancang secara sadar — bukan sekadar diimprovisasi.",
 
   profile: {
     title: "Company Profile",
