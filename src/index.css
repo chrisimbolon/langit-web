@@ -11,3 +11,22 @@ body {
   color: #171717;
   -webkit-font-smoothing: antialiased;
 }
+
+.container {
+  width: 100%;
+  max-width: 1440px;
+  margin-inline: auto;
+  padding-inline: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .container {
+    padding-inline: 2rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container {
+    padding-inline: 4rem;
+  }
+}
