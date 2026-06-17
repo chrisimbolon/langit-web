@@ -20,11 +20,11 @@ export default function Footer() {
           <div className="md:text-right">
 
             <p className="text-neutral-500">
-              hello@langit.id
+              info@langit.co.id
             </p>
 
             <p className="mt-2 text-neutral-500">
-              Medan, Indonesia
+              Jambi, Indonesia
             </p>
 
             <p className="mt-8 text-sm text-neutral-400">
