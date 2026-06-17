@@ -14,7 +14,6 @@
     "noEmit": true,
     "jsx": "react-jsx",
     /* Path alias — must mirror vite.config.ts resolve.alias */
-    "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
     },
