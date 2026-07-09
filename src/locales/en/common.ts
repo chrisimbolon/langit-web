@@ -152,6 +152,12 @@ company: {
       bio:
         "Focused on system architecture, backend engineering, and modern deployment infrastructure, building scalable and production-ready technical foundations.",
     },
+    {
+      name: "Sansan Xaverius",
+      role: "Creative Director and Chief Marketing Officer",
+      bio:
+        "Focused on system architecture, backend engineering, and modern deployment infrastructure, building scalable and production-ready technical foundations.",
+    },
 
   ],
 },
