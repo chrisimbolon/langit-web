@@ -151,7 +151,7 @@ company: {
       name: "Christyan Simbolon",
       role: "Technology Director",
       bio:
-        "Focused on system architecture, backend engineering, and modern deployment infrastructure, building scalable and production-ready technical foundations.",
+        "Transforms business requirements into scalable, production-ready technology foundations through software architecture, backend engineering, and modern cloud infrastructure.",
     },
     {
       name: "Sansan Xaverius",
