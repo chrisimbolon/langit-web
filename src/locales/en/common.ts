@@ -1,3 +1,4 @@
+// src/locales/en/common.ts
 export default {
   nav: {
     home: "Home",
