@@ -150,7 +150,7 @@ company: {
       name: "Christyan Simbolon",
       role: "Technology Director",
       bio:
-        "Berfokus pada arsitektur sistem, rekayasa backend, dan infrastruktur deployment modern. Membangun fondasi teknis yang skalabel, terstruktur, dan siap produksi.",
+        "Menerjemahkan kebutuhan bisnis menjadi fondasi teknologi melalui arsitektur sistem, rekayasa backend, dan infrastruktur cloud modern yang skalabel serta siap produksi.",
     },
     {
       name: "Sansan Xaverius",
