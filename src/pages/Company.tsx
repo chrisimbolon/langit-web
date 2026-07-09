@@ -1,3 +1,4 @@
+// src/pages/Company.tsx
 import { ArrowDown } from "lucide-react";
 import { useTranslation } from "react-i18next";
 
