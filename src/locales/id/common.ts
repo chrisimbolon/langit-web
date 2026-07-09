@@ -156,7 +156,7 @@ company: {
       name: "Sansan Xaverius",
       role: "Creative Director and Chief Marketing Officer",
       bio:
-        "Berfokus pada arsitektur sistem, rekayasa backend, dan infrastruktur deployment modern. Membangun fondasi teknis yang skalabel, terstruktur, dan siap produksi.",
+        " Memimpin strategi merek, arahan kreatif, dan komunikasi pemasaran untuk memastikan setiap produk digital memiliki identitas yang kuat serta mampu menghubungkan teknologi dengan pertumbuhan bisnis.",
     },
   ],
 },
