@@ -103,7 +103,7 @@ export default function Company() {
                   "Abdul Halik Nasution": "A-Halik.jpeg",
                     "Christyan Simbolon": "Chris.jpeg",
   
-                "Herri": "Herri.jpeg",
+                "Sansan Xaverius": "Herri.jpeg",
                 };
 
                 const imageName = founderImages[member.name] ?? "placeholder.jpeg";
