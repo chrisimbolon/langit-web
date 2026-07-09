@@ -96,14 +96,11 @@ export default function Company() {
 
           <div className="flex justify-center">
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-12 w-fit mx-auto place-items-center">
-            {/* <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-12 w-full max-w-6xl"> */}
-
               {members.map((member, i) => {
                 const founderImages: Record<string, string> = {
                   "Abdul Halik Nasution": "A-Halik.jpeg",
-                    "Christyan Simbolon": "Chris.jpeg",
-  
-                "Sansan Xaverius": "Herri.jpeg",
+                  "Christyan Simbolon": "Chris.jpeg", 
+                  "Sansan Xaverius": "Herri.jpeg",
                 };
 
                 const imageName = founderImages[member.name] ?? "placeholder.jpeg";
