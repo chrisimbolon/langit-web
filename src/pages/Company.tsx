@@ -99,9 +99,14 @@ export default function Company() {
             {/* <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-12 w-full max-w-6xl"> */}
 
               {members.map((member, i) => {
-                let imageName = "placeholder.jpeg";
-                if (member.name === "Abdul Halik Nasution") imageName = "A-Halik.jpeg";
-                else if (member.name === "Christyan Simbolon") imageName = "Chris.jpeg";
+                const founderImages: Record<string, string> = {
+                  "Abdul Halik Nasution": "A-Halik.jpeg",
+                    "Christyan Simbolon": "Chris.jpeg",
+  
+                "Herri": "Herri.jpeg",
+                };
+
+                const imageName = founderImages[member.name] ?? "placeholder.jpeg";
 
                 return (
                   <div
