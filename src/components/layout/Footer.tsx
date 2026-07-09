@@ -24,7 +24,7 @@ export default function Footer() {
             </p>
 
             <p className="mt-2 text-neutral-500">
-              Jambi, Indonesia
+              Batam & Jambi, Indonesia
             </p>
 
             <p className="mt-8 text-sm text-neutral-400">
