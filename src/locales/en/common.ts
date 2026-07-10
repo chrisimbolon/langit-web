@@ -164,49 +164,81 @@ company: {
 },
 },
 work: {
-  eyebrow: "Work",
+  eyebrow: "Selected Work",
 
-  titleLine1: "Selected digital systems",
+  titleLine1: "Digital platforms",
   titleLine2: "engineered with precision.",
 
   description:
-    "A curated selection of structured platforms built for operational clarity and long-term scalability.",
+    "A selection of software platforms designed for scalability, operational clarity, and long-term maintainability.",
 
   projects: [
     {
       year: "2026",
-      category: "Event Platform",
+      category: "Event Management Platform",
       title: "EventIndo",
       description:
-        "A scalable event management platform upgraded from EventHub, designed to support structured event operations and modern participant workflows.",
+        "A modern event management platform built on a structured backend architecture, scalable frontend, and containerized deployment pipeline. Designed to support everything from community events to enterprise-scale operations.",
       stack: [
         "React / TypeScript",
-        "Django / PostgreSQL",
-        "Dockerized Deployment"
+        "Python / Django",
+        "PostgreSQL",
+        "Docker",
       ],
     },
+
     {
       year: "2026",
-      category: "Transportation Platform",
-      title: "Travel App Platform",
+      category: "Smart Community Platform",
+      title: "RTmudah",
       description:
-        "A passenger service platform designed for minibus transportation networks across cities throughout Sumatra Island, Indonesia.",
+        "A digital platform that modernizes neighborhood administration across Indonesia by unifying resident management, monthly contributions, announcements, official letters, and reporting into a single integrated system. Engineered with a multi-tenant architecture capable of securely serving thousands of communities.",
       stack: [
-        "React / Vite",
-        "Backend API Architecture",
-        "Operational Routing Logic"
+        "Next.js",
+        "Python / FastAPI",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
       ],
     },
+
+    {
+      year: "2026",
+      category: "Property Management Platform",
+      title: "DevelopIndo",
+      description:
+        "A comprehensive property management platform built for Indonesian housing developers, enabling project management, customer relations, unit inventory, payment processing, and operational workflows within a unified digital ecosystem.",
+      stack: [
+        "Next.js",
+        "Python / Django",
+        "PostgreSQL",
+        "Docker",
+      ],
+    },
+
     {
       year: "2022",
-      category: "E-Kiosk System",
-      title: "Guest Visiting Application",
+      category: "Enterprise Visitor Management",
+      title: "Guest Visiting System",
       description:
-        "A structured visitor management system deployed on digital kiosks, automating guest registration and reducing manual operational overhead.",
+        "A production-grade visitor management solution deployed on enterprise kiosk infrastructure with camera integration, automated badge printing, and an operational data model designed for high-volume corporate environments.",
       stack: [
-        "Django Backend",
-        "Webcam Capture Integration",
-        "Production Deployment"
+        "Python / Django",
+        "Webcam Integration",
+        "PostgreSQL",
+      ],
+    },
+
+    {
+      year: "2026",
+      category: "Travel Discovery Platform",
+      title: "Travel App Platform",
+      description:
+        "A location-based travel platform that combines interactive maps, geolocation services, and destination recommendations through a modular frontend architecture optimized for speed and user experience.",
+      stack: [
+        "React",
+        "REST API",
+        "Geolocation Services",
       ],
     },
   ],
