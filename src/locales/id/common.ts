@@ -168,7 +168,7 @@ work: {
   titleLine2: "yang direkayasa dengan presisi.",
 
   description:
-    "Beberapa platform terstruktur yang dirancang untuk skalabilitas, kejernihan operasional, dan keberlanjutan jangka panjang.",
+    "Kumpulan platform terstruktur yang dirancang untuk skalabilitas, kejernihan operasional, dan keberlanjutan jangka panjang.",
 
   projects: [
   {
