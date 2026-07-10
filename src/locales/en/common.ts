@@ -209,7 +209,7 @@ work: {
       description:
         "A comprehensive property management platform built for Indonesian housing developers, enabling project management, customer relations, unit inventory, payment processing, and operational workflows within a unified digital ecosystem.",
       stack: [
-        "NEXT.js",
+        "Next.js",
         "Python / Django",
         "PostgreSQL",
         "Docker",
