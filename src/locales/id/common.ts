@@ -205,7 +205,7 @@ work: {
     category: "Platform Event",
     title: "EventIndo",
     description:
-      "Platform manajemen event modern dengan arsitektur backend terstruktur, sistem frontend yang skalabel, serta deployment berbasis container untuk penyelenggaraan event skala kecil hingga enterprise.",
+      "Platform manajemen event modern dengan arsitektur backend terstruktur, sistem frontend yang skalabel, serta deployment berbasis container untuk penyelenggaraan acara skala kecil hingga enterprise.",
     stack: [
       "React / TypeScript",
       "Django / PostgreSQL",
