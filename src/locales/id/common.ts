@@ -171,16 +171,18 @@ work: {
     "Kumpulan platform terstruktur yang dirancang untuk skalabilitas, kejernihan operasional, dan keberlanjutan jangka panjang.",
 
   projects: [
-  {
+ {
     year: "2026",
-    category: "Platform Event",
-    title: "EventIndo",
+    category: "Smart Neighborhood Community Platform",
+    title: "RTmudah",
     description:
-      "Platform manajemen event modern dengan arsitektur backend terstruktur, sistem frontend yang skalabel, serta deployment berbasis container untuk penyelenggaraan event skala kecil hingga enterprise.",
+      "Platform digital yang memodernisasi pengelolaan RT/RW di Indonesia melalui administrasi warga, iuran bulanan, pengumuman, layanan surat, dan pelaporan dalam satu sistem yang terintegrasi. Dirancang dengan arsitektur yang mampu melayani ribuan lingkungan secara aman dan skalabel.",
     stack: [
-      "React / TypeScript",
-      "Django / PostgreSQL",
-      "Docker Deployment",
+      "Next.js",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
     ],
   },
 
