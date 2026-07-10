@@ -171,42 +171,73 @@ work: {
     "Beberapa platform terstruktur yang dirancang untuk skalabilitas, kejernihan operasional, dan keberlanjutan jangka panjang.",
 
   projects: [
-    {
-      year: "2026",
-      category: "Platform Event",
-      title: "EventIndo",
-      description:
-        "Platform manajemen event modern dengan arsitektur backend terstruktur, sistem frontend yang skalabel, serta deployment berbasis container.",
-      stack: [
-        "React / TypeScript",
-        "Django / PostgreSQL",
-        "Docker Deployment",
-      ],
-    },
-    {
-      year: "2026",
-      category: "Platform Travel",
-      title: "Travel App Platform",
-      description:
-        "Platform eksplorasi kota berbasis peta dengan arsitektur frontend modular dan layanan backend berbasis API.",
-      stack: [
-        "React",
-        "Arsitektur REST API",
-        "Integrasi Geolokasi",
-      ],
-    },
-    {
-      year: "2022",
-      category: "Sistem Kiosk Perusahaan",
-      title: "Guest Visiting System",
-      description:
-        "Sistem manajemen tamu tingkat produksi yang diimplementasikan pada infrastruktur kiosk perusahaan dengan integrasi kamera dan pemodelan data terstruktur.",
-      stack: [
-        "Backend Django",
-        "Integrasi Webcam",
-        "Desain Database Operasional",
-      ],
-    },
-  ],
+  {
+    year: "2026",
+    category: "Platform Event",
+    title: "EventIndo",
+    description:
+      "Platform manajemen event modern dengan arsitektur backend terstruktur, sistem frontend yang skalabel, serta deployment berbasis container untuk penyelenggaraan event skala kecil hingga enterprise.",
+    stack: [
+      "React / TypeScript",
+      "Django / PostgreSQL",
+      "Docker Deployment",
+    ],
+  },
+
+  {
+    year: "2026",
+    category: "Smart Community Platform",
+    title: "RTmudah",
+    description:
+      "Platform digital yang memodernisasi pengelolaan RT/RW di Indonesia melalui administrasi warga, iuran bulanan, pengumuman, layanan surat, dan pelaporan dalam satu sistem yang terintegrasi. Dirancang dengan arsitektur yang mampu melayani ribuan lingkungan secara aman dan skalabel.",
+    stack: [
+      "Next.js",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+    ],
+  },
+
+  {
+    year: "2026",
+    category: "Property Management Platform",
+    title: "DevelopIndo",
+    description:
+      "Platform manajemen properti modern yang membantu pengembang perumahan mengelola proyek, pelanggan, inventaris unit, pembayaran, dan operasional bisnis melalui sistem digital yang terstruktur. Dibangun untuk mendukung pertumbuhan bisnis properti Indonesia dalam jangka panjang.",
+    stack: [
+      "Next.js",
+      "Django",
+      "PostgreSQL",
+      "Docker",
+    ],
+  },
+
+  {
+    year: "2022",
+    category: "Enterprise Kiosk System",
+    title: "Guest Visiting System",
+    description:
+      "Sistem manajemen tamu tingkat produksi yang diimplementasikan pada infrastruktur kiosk perusahaan dengan integrasi kamera, pencetakan badge otomatis, serta pemodelan data operasional untuk lingkungan enterprise.",
+    stack: [
+      "Backend Django",
+      "Webcam Integration",
+      "Operational Database",
+    ],
+  },
+
+  {
+    year: "2026",
+    category: "Travel Platform",
+    title: "Travel App Platform",
+    description:
+      "Platform eksplorasi destinasi wisata berbasis peta dengan layanan geolokasi, rekomendasi tempat, dan arsitektur frontend modular yang dirancang untuk pengalaman pengguna yang cepat dan intuitif.",
+    stack: [
+      "React",
+      "REST API",
+      "Geolocation Services",
+    ],
+  },
+],
 },
 }
