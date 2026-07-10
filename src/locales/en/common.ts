@@ -176,7 +176,7 @@ work: {
     {
       year: "2026",
       category: "Smart Community Platform",
-      title: "RTmudah",
+      title: "RTMudah",
       description:
         "A digital platform that modernizes neighborhood administration across Indonesia by unifying resident management, monthly contributions, announcements, official letters, and reporting into a single integrated system. Engineered with a multi-tenant architecture capable of securely serving thousands of communities.",
       stack: [
