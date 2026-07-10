@@ -186,7 +186,7 @@ work: {
 
   {
     year: "2026",
-    category: "Smart Community Platform",
+    category: "Smart Neighbourhood Community Platform",
     title: "RTmudah",
     description:
       "Platform digital yang memodernisasi pengelolaan RT/RW di Indonesia melalui administrasi warga, iuran bulanan, pengumuman, layanan surat, dan pelaporan dalam satu sistem yang terintegrasi. Dirancang dengan arsitektur yang mampu melayani ribuan lingkungan secara aman dan skalabel.",
