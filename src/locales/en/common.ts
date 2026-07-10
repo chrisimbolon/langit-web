@@ -190,15 +190,14 @@ work: {
 
     {
       year: "2026",
-      category: "Smart Community Platform",
-      title: "RTmudah",
+      category: "Event Management Platform",
+      title: "EventIndo",
       description:
-        "A digital platform that modernizes neighborhood administration across Indonesia by unifying resident management, monthly contributions, announcements, official letters, and reporting into a single integrated system. Engineered with a multi-tenant architecture capable of securely serving thousands of communities.",
+        "A modern event management platform built on a structured backend architecture, scalable frontend, and containerized deployment pipeline. Designed to support everything from community events to enterprise-scale operations.",
       stack: [
-        "Next.js",
-        "Python / FastAPI",
+        "React / TypeScript",
+        "Python / Django",
         "PostgreSQL",
-        "Redis",
         "Docker",
       ],
     },
