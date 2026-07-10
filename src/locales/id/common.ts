@@ -188,16 +188,14 @@ work: {
 
   {
     year: "2026",
-    category: "Smart Neighborhood Community Platform",
-    title: "RTmudah",
+    category: "Platform Event",
+    title: "EventIndo",
     description:
-      "Platform digital yang memodernisasi pengelolaan RT/RW di Indonesia melalui administrasi warga, iuran bulanan, pengumuman, layanan surat, dan pelaporan dalam satu sistem yang terintegrasi. Dirancang dengan arsitektur yang mampu melayani ribuan lingkungan secara aman dan skalabel.",
+      "Platform manajemen event modern dengan arsitektur backend terstruktur, sistem frontend yang skalabel, serta deployment berbasis container untuk penyelenggaraan event skala kecil hingga enterprise.",
     stack: [
-      "Next.js",
-      "FastAPI",
-      "PostgreSQL",
-      "Redis",
-      "Docker",
+      "React / TypeScript",
+      "Django / PostgreSQL",
+      "Docker Deployment",
     ],
   },
 
