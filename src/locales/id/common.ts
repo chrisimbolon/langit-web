@@ -202,15 +202,14 @@ work: {
 
   {
     year: "2026",
-    category: "Property Management Platform",
-    title: "DevelopIndo",
+    category: "Platform Event",
+    title: "EventIndo",
     description:
-      "Platform manajemen properti modern yang membantu pengembang perumahan mengelola proyek, pelanggan, inventaris unit, pembayaran, dan operasional bisnis melalui sistem digital yang terstruktur. Dibangun untuk mendukung pertumbuhan bisnis properti Indonesia dalam jangka panjang.",
+      "Platform manajemen event modern dengan arsitektur backend terstruktur, sistem frontend yang skalabel, serta deployment berbasis container untuk penyelenggaraan event skala kecil hingga enterprise.",
     stack: [
-      "Next.js",
-      "Django",
-      "PostgreSQL",
-      "Docker",
+      "React / TypeScript",
+      "Django / PostgreSQL",
+      "Docker Deployment",
     ],
   },
 
