@@ -211,7 +211,7 @@ work: {
       stack: [
         "Next.js",
         "Python / Django",
-        "PostgreSQL",
+        "PostgreSQl",
         "Docker",
       ],
     },
